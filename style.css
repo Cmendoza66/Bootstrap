@@ -1,0 +1,13 @@
+body {
+    height: 393px;
+    background-image: linear-gradient(to right, #0d0e1d, #203851, #216787, #0b9cb8, #1dd4dd);
+    margin: 10rem;
+}
+
+#selfie {
+    border-radius: 10% 40% / 50% 20%;
+}
+
+#ptbutton {
+    padding-bottom: 3rem;
+}
